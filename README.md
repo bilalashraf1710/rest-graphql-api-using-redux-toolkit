@@ -25,6 +25,7 @@ npm install
 1. Start the development server:
 
 npm start
+
 The app will be accessible at http://localhost:3000.
 
 2. Mocking API Requests:
